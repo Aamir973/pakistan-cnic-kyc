@@ -7,11 +7,11 @@ An AI-powered Know Your Customer (KYC) verification system designed specifically
 ---
 ## 🖥️ Screenshots
 
-![Screenshot 1](images/p1.png)
-![Screenshot 2](images/p2.png)
-![Screenshot 3](images/p3.png)
-![Screenshot 4](images/p4.png)
-![Screenshot 5](images/p5.png)
+![Screenshot 1](images/p1.png?v=2)
+![Screenshot 2](images/p2.png?v=2)
+![Screenshot 3](images/p3.png?v=2)
+![Screenshot 4](images/p4.png?v=2)
+![Screenshot 5](images/p5.png?v=2)
 ## Features
 
 ### ✅ Current Features
