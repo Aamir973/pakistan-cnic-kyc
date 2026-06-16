@@ -5,7 +5,13 @@
 An AI-powered Know Your Customer (KYC) verification system designed specifically for **Pakistan National Identity Cards (CNIC)**. The system extracts and validates information from both the **front** and **back** sides of the CNIC using OCR, applies fraud detection logic, and produces a risk-scored verification decision.
 
 ---
+## 🖥️ Screenshots
 
+![Screenshot 1](images/p1.png)
+![Screenshot 2](images/p2.png)
+![Screenshot 3](images/p3.png)
+![Screenshot 4](images/p4.png)
+![Screenshot 5](images/p5.png)
 ## Features
 
 ### ✅ Current Features
